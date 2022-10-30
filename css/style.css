@@ -1,0 +1,303 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
+.element::-webkit-scrollbar {
+    width: 0;
+  }
+  
+  /*Убрать полосу прокрутки для всей страницы*/
+  ::-webkit-scrollbar {
+    width: 0;
+  }
+body
+{
+    color: white;
+    font-family: 'Comfortaa';
+    background: black;
+}
+.menu_Appu_QweS12690D ion-icon
+{
+    font-size: 30px;
+    margin-top: 175px;
+    position: fixed;
+    left: 35px;
+}
+.home_Appu_QweS12600D
+{
+    position: absolute;
+width: 111px;
+height: 28px;
+left: 165px;
+top: 40px; 
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 28px;
+color: #FFFFFF;
+border-bottom: 2px solid #00B2FF;
+}
+.recommend_Appu_QweS12600D
+{
+    position: absolute;
+width: 180px;
+height: 20px;
+left: 175px;
+top: 110px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.content_movie_Appu_12600D
+{
+position: relative;
+width: 325px;
+height: 325px;
+display: -webkit-inline-box;
+margin-left: 35px;
+left: 130px;
+top: 155px;
+}
+.content_movie_Appu_13612D img,
+.content_movie_Appu_13611D img,
+.content_movie_Appu_13610D img,
+.content_movie_Appu_13690D img,
+.content_movie_Appu_13680D img,
+.content_movie_Appu_13670D img,
+.content_movie_Appu_13660D img,
+.content_movie_Appu_13606D img,
+.content_movie_Appu_13650D img,
+.content_movie_Appu_13605D img,
+.content_movie_Appu_13640D img,
+.content_movie_Appu_13604D img,
+.content_movie_Appu_13603D img,
+.content_movie_Appu_12603D img,
+.content_movie_Appu_13630D img,
+.content_movie_Appu_112602D img,
+.content_movie_Appu_12602D img,
+.content_movie_Appu_12600D img
+{
+    width: 100%;
+    border-radius: 20px;
+    object-fit: cover;
+    height: 100%;
+}
+.collection_movie_Appu_QweS12600D
+{
+    position: absolute;
+width: 194px;
+height: 20px;
+left: 175px;
+top: 530px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.content_movie_Appu_12602D
+{
+    position: absolute;
+width: 150px;
+height: 175px;
+left: 175px;
+top: 575px;
+}
+.content_movie_Appu_112602D
+{
+    position: relative;
+width: 340px;
+height: 175px;
+left: 350px;
+top: 240px;
+}
+.content_movie_Appu_12603D
+{
+position: relative;
+width: 150px;
+margin-left: 20px;
+height: 175px;
+left: 700px;
+display: -webkit-inline-box;
+top: 65px;;
+}
+.content_movie_Appu_13603D
+{
+    position: relative;
+    width: 150px;
+    display: -webkit-inline-box;
+    height: 175px;
+    top: 260px;
+    right: 370px;
+    margin-left: 15px;
+}
+.content_movie_Appu_13630D
+{
+    position: absolute;
+width: 340px;
+height: 175px;
+left: 713px;
+top: 775px;
+}
+.content_movie_Appu_13604D
+{
+    position: absolute;
+width: 150px;
+height: 175px;
+left: 1076px;
+top: 775px;
+
+}
+.new_movie_Appu_QweS12600D
+{
+    position: absolute;
+width: 87px;
+height: 20px;
+left: 173px;
+top: 1000px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.content_movie_Appu_13605D
+{
+    position: relative;
+width: 150px;
+height: 175px;
+margin-top: 20px;
+left: 168px;
+top: 335px;
+}
+
+.content_movie_Appu_13640D
+{
+    position: absolute;
+    width: 345px;
+    height: 371px;
+    left: 349px;
+    top: 1045px;
+}
+.content_movie_Appu_13650D
+{
+    position: absolute;
+width: 340px;
+height: 175px;
+left: 713px;
+top: 1045px;
+}
+.content_movie_Appu_13606D
+{
+    position: absolute;
+width: 150px;
+height: 175px;
+left: 713px;
+top: 1245px;
+}
+.content_movie_Appu_13660D
+{
+    position: absolute;
+width: 323px;
+height: 175px;
+left: 903px;
+top: 1245px;
+}
+.content_movie_Appu_13670D
+{
+position: absolute;
+width: 150px;
+height: 175px;
+left: 1076px;
+top: 1045px;
+}
+.collection_seriales_Appu_QweS12600D
+{
+position: absolute;
+width: 190px;
+height: 20px;
+left: 173px;
+top: 1470px;
+
+font-family: 'Comfortaa';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.content_movie_Appu_13680D
+{
+    position: absolute;
+width: 320px;
+height: 175px;
+left: 173px;
+top: 1515px;
+}
+.content_movie_Appu_13690D
+{
+    position: relative;
+width: 150px;
+height: 175px;
+left: 510px;
+top: 435px;
+display:-webkit-inline-box;
+margin-left: 15px;
+}
+.content_movie_Appu_13610D
+{
+    position: absolute;
+width: 150px;
+height: 375px;
+left: 1063px;
+top: 1515px;
+}
+.content_movie_Appu_13611D
+{
+    right: 355px;
+    position: relative;
+    width: 150px;
+    height: 175px;
+    top: 630px;
+    display: -webkit-inline-box;
+    margin-left: 15px;
+}
+.content_movie_Appu_13612D
+{
+    position: absolute;
+width: 340px;
+height: 175px;
+left: 703px;
+top: 1715px;
+
+}
+.content_movie_Appu_QweS12600D
+{
+    top: 525px;
+    position: relative;
+}
+.content_movie_Appu_QweS12700D
+{
+    position: relative;
+    top: 1060px;
+}
